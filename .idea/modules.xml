@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bean/bean.iml" filepath="$PROJECT_DIR$/bean/bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dingding.iml" filepath="$PROJECT_DIR$/dingding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top-auto-sdk/top-auto-sdk.iml" filepath="$PROJECT_DIR$/top-auto-sdk/top-auto-sdk.iml" />
+    </modules>
+  </component>
+</project>
